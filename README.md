@@ -3,7 +3,7 @@
 Bulls and Cows Game with Firebase multiplayer written in Flutter that can run on and Android.
 
 
-<img src='Images/login.jpg' width='275'>  <img src='Images/home.jpg' width='275'>  <img src='Images/howToPlay.jpg' width='275'>
+<img src='Images/login.jpg' width='280'>  <img src='Images/home.jpg' width='280'>  <img src='Images/howToPlay.jpg' width='280'>
 
 <img src='Images/singlePlayer.jpg' width='275'>  <img src='Images/vsPlayer.jpg' width='275'>  <img src='Images/vsAndroid.jpg' width='275'>
 
