@@ -10,7 +10,7 @@ Bulls and Cows Game with Firebase multiplayer written in Flutter that can run on
 <img src='Images/playerList.jpg' width='300'>  <img src='Images/invite.jpg' width='300'> <img src='Images/profile.jpg' width='300'>
 
 # Backend
-- [Click Here](https://flutter.dev/docs/get-started/codelab) for cloud Functions to implement pushnotifcations
+- [Click Here](https://github.com/aditya383/CowsAndBulls-Backend) for cloud Functions to implement pushnotifcations
 
 ## Getting Started
 
